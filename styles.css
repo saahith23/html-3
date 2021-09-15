@@ -18,13 +18,44 @@ body{
    text-decoration: none;
    padding: 0.5rem 1rem;
 }
-.primary-link{
-    background-color: var(--primary-color);
+.link-primary{
+    background-color:#60A5FA;
     border-radius: 0.5rem;
+    color:white;
+
     
 }
-.secondary-link{
-    color:var(--primary-color);
+.link-secondary{
+    color:#60A5FA;
     border-radius: 0.5rem;
-    border:1px solid var(--primary-color);
+    border:1px solid #60A5FA;
+}
+.list-non-bullet{
+    list-style: none;
+
+}
+.inline-items{
+    display: inline;
+    padding: 0rem 0.5rem;
+}
+.navi{
+    background-color: #60A5FA;
+    color:wihte;
+    padding: 0rem 0.5rem;
+
+}
+.navigation{
+    color:white;
+}
+.navi-inline-items{
+    display: inline;
+    text-align: right;
+
+}
+.navi-link{
+    color:white;
+    text-decoration: none;
+    padding: 1rem 0.5rem;
+  
+
 }
