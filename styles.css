@@ -40,22 +40,26 @@ body{
 }
 .navi{
     background-color: #60A5FA;
-    color:wihte;
-    padding: 0rem 0.5rem;
-
+    padding:1rem;
+    border-bottom-left-radius: 1rem;
 }
 .navigation{
     color:white;
 }
 .navi-inline-items{
-    display: inline;
-    text-align: right;
+ display: inline;
 
+ 
+ padding: 1rem 2rem; 
 }
 .navi-link{
     color:white;
     text-decoration: none;
-    padding: 1rem 0.5rem;
-  
-
+}
+.navi-list-non-bullet{
+    
+    list-style: none;
+}
+.navigation .active{
+    font-weight: bold;
 }
