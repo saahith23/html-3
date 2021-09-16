@@ -91,3 +91,13 @@ body{
 .section .ow{
 background-color: #6B7280;
 }
+.footer{
+    background-color: #60A5FA;
+padding:2rem 1rem;
+text-align: center;
+color: white;
+}
+.social{
+    text-decoration: none;
+    color:white;
+}
