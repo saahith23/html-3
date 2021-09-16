@@ -78,6 +78,16 @@ body{
     color:#6B7280;
     
 }
-..hero .name{
-    color:#60A5FA
+.hero .hero-heading .name{
+    color:#60A5FA;
+}
+.section{
+    padding: 2rem;
+}
+.section h3{
+    text-align: center;
+  
+}
+.section .ow{
+background-color: #6B7280;
 }
