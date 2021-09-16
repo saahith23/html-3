@@ -45,6 +45,7 @@ body{
 }
 .navigation{
     color:white;
+    font-weight: bold;
 }
 .navi-inline-items{
  display: inline;
@@ -57,9 +58,23 @@ body{
     text-decoration: none;
 }
 .navi-list-non-bullet{
-    
+    text-align: right;
     list-style: none;
 }
-.navigation .active{
+.navi-list-non-bullet .active{
     font-weight: bold;
+}
+.hero{
+    padding=2rem;
+}
+.hero .hero-img{
+    max-width: 350px;
+    display: block;
+    margin:auto;
+}
+.hero .hero-heading{
+    font-size: large;
+    padding-top: 1rem;
+    color:#6B7280;
+    
 }
