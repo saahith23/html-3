@@ -71,6 +71,7 @@ body{
     max-width: 350px;
     display: block;
     margin:auto;  
+    padding-top: 4rem;
 }
 .hero .hero-heading{
     font-size: xx-large;
