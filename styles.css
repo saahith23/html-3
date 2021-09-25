@@ -92,8 +92,12 @@ body{
     text-align: center;
   
 }
+.section .os{
+    padding:2rem 0rem;
+}
 .section .ow{
 background-color: #6B7280;
+padding: 2rem 0rem;
 }
 .footer{
     background-color: #60A5FA;
@@ -105,4 +109,7 @@ border-top-right-radius: 1rem;
 .social{
     text-decoration: none;
     color:white;
+}
+.project-padding{
+    padding: 2rem 0rem;
 }
