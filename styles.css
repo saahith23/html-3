@@ -87,16 +87,15 @@ body{
 }
 .section{
     padding: 2rem;
+    text-align: center; 
 }
-.section h3{
-    text-align: center;
-  
+.section-one{
+    background-color: #F3F4F6;
+    text-align: center; 
+    padding: 2rem;
 }
-.section .os{
-    padding:2rem 0rem;
-}
-.section .ow{
-background-color: #6B7280;
+.ow{
+background-color: #F3F4F6;
 padding: 2rem 0rem;
 }
 .footer{
@@ -112,4 +111,13 @@ border-top-right-radius: 1rem;
 }
 .project-padding{
     padding: 2rem 0rem;
+}
+.project-page{
+text-align: center;
+padding:1rem 0rem;
+
+}
+.project-list{
+    background-color: #F3F4F6; 
+    
 }
